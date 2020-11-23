@@ -7,21 +7,21 @@
 4. [Requirements](#Requirements)
 5. [References](#References)
 
-### Introduction to Docker
+## Introduction to Docker
 Please see the [Getting Started with Docker](doc/docker-getting-started.md) guide to familiarize
 yourself with the docker toolbox.
 
-### Git Tips
+## Git Tips
 Please see the [github cheat sheet](doc/github-cheat-sheet.md) for some tips and easily forgotten
 commands.
 
-### Project Description
+## Project Description
 ##### Orchestrates simple Python applications in Docker containers using Kubernetes
 
-### Requirements
+## Requirements
 ##### Reference the requirements.txt file
 
-### References
+## References
 
 1. https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask
 

@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Introduction to Docker](#Introduction-to-Docker)
 2. [Git Tips](#Git-Tips)
-3. [Project Description](#Project Description)
+3. [Project Description](#Project-Description)
 4. [Requirements](#Requirements)
 5. [References](#References)
 
